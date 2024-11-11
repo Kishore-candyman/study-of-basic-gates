@@ -76,8 +76,6 @@ module logicgates(a, b, c1, c2, c3, c4, c5, c6, c7);
     assign c7 = ~(a ^ b);
 endmodule
 
-![screenshot 7](https://github.com/user-attachments/assets/edcd5b8e-261e-4506-88ac-5122857be7c7)
-![Screenshot (5)](https://github.com/user-attachments/assets/fa9d4479-7457-4095-8da5-7de0c2a735a0)
 
 
 
@@ -88,10 +86,15 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 **Logic symbol & Truthtable**
 
+![Screenshot 2024-11-11 081625](https://github.com/user-attachments/assets/40c9cc7b-9301-46ba-9692-41da4099bba9)
+
 **RTL realization Output:** 
 
-**RTL**
+![Screenshot 2024-11-11 082549](https://github.com/user-attachments/assets/63abb129-10aa-466e-b2f0-c9be70144b81)
 
+
+**RTL**
+![Screenshot (5)](https://github.com/user-attachments/assets/abcc8092-7cf7-4e99-a2da-d93e0e0c07c2)
 **Result:**
 Thus the different digital IC's are studied and truthtable for different logic gates are verified
 
